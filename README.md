@@ -1,4 +1,4 @@
-## [Seçkin's](www.linkedin.com/in/seçkin-şen) Article Store
+## [Seçkin's](https://www.linkedin.com/in/se%C3%A7kin-%C5%9Fen/) Article Store
 
 This repository contains article(s) written by [Seçkin ŞEN](mailto:sckn.sen@gmail.com). Below is a short summary of the article(s) available on repository.
 
