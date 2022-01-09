@@ -4,3 +4,5 @@ This repository contains article(s) written by [Seçkin ŞEN](mailto:sckn.sen@gm
 
 * `Terraform` related
     * [How to Deploy Serverless Stack on Alibaba Cloud Using Terraform](terraform/how_to_deploy_serverless_stack_on_alibaba_cloud_using_terraform.md) is about Alicloud Function Compute deployment practice with Terraform.
+* Publications
+   * [Extract gait pattern with Kinect](https://ieeexplore.ieee.org/document/7496143)
