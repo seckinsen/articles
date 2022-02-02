@@ -314,4 +314,4 @@ I hope I have been able to shown that Terraform is great `Infrastructure as Code
 
 Thanks for reading. If you have any questions or feedback, then please drop a note :)
 
-> Also you can check my presentation through [*link*](https://slides.com/seckinsen/serverless-at-trendyol/fullscreen) for getting more information about Alicloud Function Compute service, limits and pricing.
+> Also you can check my presentation through [*link*](https://slides.com/seckinsen/going-faaster/fullscreen) for getting more information about Alicloud Function Compute service, limits and pricing.
